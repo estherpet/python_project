@@ -1,0 +1,6 @@
+file = open("student_record.txt", mode ='w')
+file.write("001 favour 49\n")
+file.write("002 faith 79 \n")
+file.write("003 naomi 78 \n")
+file.write("004 hyelnati 97 \n")
+file.close()
